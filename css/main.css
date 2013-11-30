@@ -19,7 +19,7 @@ h2 em {color:red; font-style: normal;}
   right: 0;
   left: 0;
   bottom: 0;
-  /*z-index: $zindex-navbar-fixed;*/
+  z-index: 1010;
 }
 
 body { padding-bottom: 70px; }
