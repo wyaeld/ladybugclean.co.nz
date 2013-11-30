@@ -3,6 +3,10 @@ h1 em {color:red; font-style: normal;}
 h2 strong {color:red;}
 h2 em {color:red; font-style: normal;}
 
+a:hover {
+  color: red;
+}
+
 .top5 { padding-top: 5px; }
 .top10 { padding-top: 10px; }
 .top20 { margin-top: 20px; }

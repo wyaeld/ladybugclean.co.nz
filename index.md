@@ -10,4 +10,5 @@ We provide a professional home cleaning service.  We understand that every job i
 
 **FREE FRIDGE CLEAN** for any new clients who sign up for weekly or fortnightly regular home cleaning.
 
-##**CALL** *US TODAY OR* **CLICK** *FOR A FREE QUOTE*
+##**CALL** *US TODAY OR* [**CLICK**](/contact-us) *FOR A FREE QUOTE*
+
