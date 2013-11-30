@@ -2,3 +2,37 @@ h1 strong {color:red;}
 h1 em {color:red; font-style: normal;}
 h2 strong {color:red;}
 h2 em {color:red; font-style: normal;}
+
+.top5 { padding-top: 5px; }
+.top10 { padding-top: 10px; }
+.top20 { margin-top: 20px; }
+.top30 { margin-top: 30px; }
+
+.navbar {
+  border-radius: 0px;
+}
+
+#footer {
+  margin-top: 20px;
+
+  position: fixed;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  /*z-index: $zindex-navbar-fixed;*/
+}
+
+body { padding-bottom: 70px; }
+/*@media (max-width: 767px) {
+  .logo-inset {margin-left: -60px; padding-top: 20px;}
+}
+@media (max-width: 991px) {
+  .logo-inset {margin-left: -60px; padding-top: 20px;}
+}
+
+.logo-inset {margin-left: -60px; padding-top: 20px;}*/
+
+/*@font-face {
+  font-family: 'franklinGothic';
+  src: url(/fonts/ufonts.com_itc-franklin-gothic-lt-com-book-condensed.ttf);
+}*/
