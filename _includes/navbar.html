@@ -12,11 +12,39 @@
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="/">HOME</a></li>
-      <li><a href="/about">ABOUT</a></li>
-      <li><a href="/services">SERVICES</a></li>
-      <li><a href="/testimonials">TESTIMONIALS</a></li>
-      <li><a href="/contact-us">CONTACT US</a></li>
+        {% if page.active == "home" %}
+            <li class="active"><a href="/">HOME</a></li>
+        {% else %}
+            <li><a href="/">HOME</a></li>
+        {% endif %}
+
+        {% if page.active == "about" %}
+            <li class="active"><a href="/about">ABOUT</a></li>
+        {% else %}
+            <li><a href="/about">ABOUT</a></li>
+        {% endif %}
+
+        {% if page.active == "services" %}
+            <li class="active"><a href="/services">SERVICES</a></li>
+        {% else %}
+            <li><a href="/services">SERVICES</a></li>
+        {% endif %}
+
+        {% if page.active == "testimonials" %}
+            <li class="active"><a href="/testimonials">TESTIMONIALS</a></li>
+        {% else %}
+            <li><a href="/testimonials">TESTIMONIALS</a></li>
+        {% endif %}
+
+        {% if page.active == "contact" %}
+            <li class="active"><a href="/contact-us">CONTACT US</a></li>
+        {% else %}
+            <li><a href="/contact-us">CONTACT US</a></li>
+        {% endif %}
+     
+
+
+
     </ul>
   </div><!-- /.navbar-collapse -->
 </nav>

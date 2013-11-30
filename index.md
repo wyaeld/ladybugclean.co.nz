@@ -1,6 +1,7 @@
 ---
 layout: main
 title: LadyBug Clean Team
+active: home
 ---
 
 #Welcome to **LADYBUG** *Clean Team*
