@@ -12,6 +12,54 @@ h2 em {color:red; font-style: normal;}
   border-radius: 0px;
 }
 
+#banner-contact {
+  color: white;
+  z-index: 1010;
+  position: absolute;
+  width: 300px;
+  
+  margin-left: 30px;
+}
+#banner-contact p {
+    margin: 0;
+  }
+
+#banner-contact a { color: white;}
+#banner-contact a:hover { color: white;}
+
+@media (max-width: 449px) {
+  #banner-contact {
+    top: 10px;
+  }
+  
+}
+@media (min-width: 450px) and (max-width: 767px) {
+  #banner-contact {
+    top: 20px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #banner-contact {
+    top: 30px;
+    font-size: 150%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #banner-contact {
+    top: 50px;
+    font-size: 200%;
+    width: 400px;
+  }
+}
+@media (min-width: 1200px) {
+  #banner-contact {
+    top: 70px;
+    font-size: 200%;
+    width: 400px;
+  }
+}
+
+
 #footer {
   margin-top: 20px;
 
