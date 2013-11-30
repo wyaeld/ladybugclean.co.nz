@@ -16,6 +16,15 @@ a:hover {
   border-radius: 0px;
 }
 
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover {
+  background-color: #222;
+}
+
+.navbar-inverse .navbar-nav>.active > a {
+  color: red;
+}
+
+
 #banner-contact {
   color: white;
   z-index: 1010;
