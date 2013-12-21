@@ -1,11 +1,20 @@
-h1 strong {color:red;}
-h1 em {color:red; font-style: normal;}
-h2 strong {color:red;}
-h2 em {color:red; font-style: normal;}
+h1 strong {color:#ff3333;}
+h1 em {color:#ff3333; font-style: normal;}
+h2 strong {color:#ff3333;}
+h2 em {color:#ff3333; font-style: normal;}
+h3 strong {color:#ff3333;}
+h3 em {color:#ff3333; font-style: normal;}
 
-a:hover {
-  color: red;
+/* Typography*/
+h1,h2,h3,p { font-family: 'Istok Web', sans-serif; }
+.navbar a { 
+  font-family: 'Istok Web', sans-serif;
+  font-size: 18px; 
+  font-weight: bold;
 }
+
+a { color: #ff3333;}
+a:hover {  color: #ff3333; }
 
 .top5 { padding-top: 5px; }
 .top10 { padding-top: 10px; }
@@ -21,7 +30,7 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav>.active > a {
-  color: red;
+  color: #ff3333;
 }
 
 
