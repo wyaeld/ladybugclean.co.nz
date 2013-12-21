@@ -6,9 +6,8 @@ active: home
 
 #Welcome to **LADYBUG** *Clean Team*
 
-We provide a professional home cleaning service.  We understand that every job is different, so contact us today we will arrange for your free, on site home cleaning quite.
+We provide a professional home cleaning and care service. Please view our extensive [**service list**](/services) for more details
 
-**FREE FRIDGE CLEAN** for any new clients who sign up for weekly or fortnightly regular home cleaning.
+At Ladybug Clean Team, we understand that every job is different, so contact us today and we will arrange for your free, on-site home cleaning and care quote.
 
-##**CALL** *US TODAY OR* [**CLICK**](/contact-us) *FOR A FREE QUOTE*
-
+##**CALL** *US TODAY OR* **FILL IN OUR FORM** *FOR A FREE QUOTE*
